@@ -12,6 +12,6 @@ MENTOR : NEELA SANTHOSH KUMAR
 - **Process:** 1. Handled categorical variables using StringIndexer.
   2. Implemented Feature Selection with VectorAssembler.
   3. Evaluated model performance using R2 and RMSE metrics.
-- **Results:** Achieved an R2 score of 0.75.
+- **Results:** Achieved an R2 score of 0.75. <br>
 **OUTPUT**
 - <img width="1547" height="794" alt="Image" src="https://github.com/user-attachments/assets/500cd1b9-0c33-4c84-805f-2dbc2e4d759a" />
